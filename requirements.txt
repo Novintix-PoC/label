@@ -1,0 +1,10 @@
+streamlit
+numpy
+pandas
+Pillow
+opencv-python-headless
+PyMuPDF
+scikit-image
+imutils
+easyocr
+openpyxl
